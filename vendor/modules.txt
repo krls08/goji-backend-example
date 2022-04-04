@@ -1,0 +1,10 @@
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
+github.com/joho/godotenv/autoload
+# goji.io/v3 v3.0.0
+## explicit
+goji.io/v3
+goji.io/v3/internal
+goji.io/v3/pat
+goji.io/v3/pattern
